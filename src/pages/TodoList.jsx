@@ -15,8 +15,8 @@ const [todos, setTodos] = useState([
   },
   {
     id: 2,
-    title: "팀 과제 ",
-    body: "6조 파이팅~!",
+    title: " 과제 ",
+    body: "힘내서 가자~!!",
     isDone: true,
   },
 ]);
